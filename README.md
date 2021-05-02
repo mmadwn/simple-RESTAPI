@@ -1,2 +1,2 @@
 # About
-An Example RESTAPI in PHP
+An Example REST API in PHP
